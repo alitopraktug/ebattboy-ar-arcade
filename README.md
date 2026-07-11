@@ -96,9 +96,7 @@ These gestures are mapped into in-game controls for interaction.
 
 ## 👨‍💻 Author
 
-Developed by **Ali Toprak Tuğtekin**
+**Ali Toprak Tuğtekin**
 
 
-## ⭐ If you like this project
 
-Give it a star ⭐ and feel free to contribute!
